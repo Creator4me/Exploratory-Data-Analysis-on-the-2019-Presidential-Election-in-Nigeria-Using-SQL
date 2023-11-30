@@ -1,6 +1,34 @@
 # Exploratory-Data-Analysis-on-the-2019-Presidential-Election-in-Nigeria-Using-SQL
-### Projet Overview
+
+## Table Of Content
+ -[Project Overview](#project-overview)
+ 
+ -[Data Sources](#data-source)
+
+ -[Tool Used](#tool-used)
+
+ -[Data Cleaning And Preparation](#data-cleaning-and-preparation)
+
+ -[Exploratory Data Analysis](#exploratory-data-analysis)
+
+ -[Data Analysis](#data-analysis)
+
+ -[Result and Findings](#result-and-findings)
+
+ -[Recommendation](#recommendation)
+
+ -[Limitation](#limitations)
+
+ -[References](#references)
+ 
+### Project Overview
 The provided queries analyze the 2019 Presidential Election in Nigeria. Various aspects of the election data have been explored to understand voter turnout, party performances, regional patterns, and more.
+
+<img width="734" alt="2019 Election" src="https://github.com/Creator4me/Exploratory-Data-Analysis-on-the-2019-Presidential-Election-in-Nigeria-Using-SQL/assets/140057655/58b51038-503d-4f79-9847-88bbf710e18a">
+
+<img width="742" alt="2019 Election 2 png" src="https://github.com/Creator4me/Exploratory-Data-Analysis-on-the-2019-Presidential-Election-in-Nigeria-Using-SQL/assets/140057655/3aaef997-55db-40fd-98e0-2c068ee6f5b0">
+
+
 ### Data Source
 The primary dataset utilized for this investigative analysis is the "2019election.csv" file, which details the electoral performance of the dominant political parties in the 2019 presidential election.
 ### Tool Used
@@ -169,7 +197,7 @@ million votes but the margin of votes in the Northcentral and Southwest were clo
  - We omitted records associated with other parties to emphasize our attention on the two primary political entities.
 
 ### References
- - The Dataset used for this analysis was obained from Independent National Electoral Commission
+ - The Dataset used for this analysis was obtained from Independent National Electoral Commission(INEC)
    - [Download here](https://www.inecnigeria.org)
 
 
